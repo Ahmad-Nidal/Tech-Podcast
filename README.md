@@ -44,6 +44,10 @@
 - المقدم: أحمد متولي
 - الرابط: https://www.youtube.com/playlist?list=PLux-0CbBEEvAL4Ugn621gtFCUPefIHhBV
 
+
+#### ـSoftware Arch Talks Podcast
+- المقدم: محمد سويلم
+- الرابط: https://www.youtube.com/playlist?list=PLgAqrVq84PDe3inbjHgfMJ7SVR7VenYOS
 #### بودكاست البرمجة لقناة كودزيلا 
 - المقدم: إسلام محفوظ
 - الرابط: https://www.youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy
