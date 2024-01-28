@@ -34,6 +34,11 @@
 - الرابط: https://youtu.be/lPOMtVevmiE?list=PL5isa5XjlZ5pH8vT0TJO9qZrRiZcrWuDp
 
 
+##### البرمجة والسفر لأوروبا والذكاء الاصطناعي والشغل في الشركات العالمية
+- المتحدث: إسلام محفوظ
+- الرابط: https://youtu.be/wpCvFmgUCek
+
+
 ### سلاسل
 
 #### ـإTech Podcast بالعربي
